@@ -1,0 +1,4 @@
+# 忽略 venvpython文件夹
+/venvpython/
+MediaCrawler/
+/model/
